@@ -1,9 +1,11 @@
 {
-  "name": "gulp-front-end-boilerplate",
+  "name": "gulp-boilerplate",
   "version": "1.0.0",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-rename": "^1.2.2"
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "require-dir": "^0.3.0"
   },
   "description": "My boilerplate for front-end projects",
   "main": "gulpfile.js",
