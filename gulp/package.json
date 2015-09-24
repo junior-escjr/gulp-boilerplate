@@ -12,16 +12,6 @@
   "scripts": {
     "test": "gulp test"
   },
-  "keywords": [
-    "gulp"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theandersonn/gulp-boilerplate.git"
-  },
-  "author": "Anderson Nascimento",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/theandersonn/gulp-boilerplate/issues"
-  },
+   "author": "Anderson Nascimento",
+  "license": "MIT"
 }
