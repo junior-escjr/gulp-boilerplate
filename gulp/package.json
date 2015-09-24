@@ -15,6 +15,13 @@
   "keywords": [
     "gulp"
   ],
-  "author": "theandersonn",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theandersonn/gulp-boilerplate.git"
+  },
+  "author": "Anderson Nascimento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theandersonn/gulp-boilerplate/issues"
+  },
 }
