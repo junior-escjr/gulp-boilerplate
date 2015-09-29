@@ -11,7 +11,3 @@ gulp.task('minificarjs', function() {
 		.pipe(gulp.dest('../assets/js-min'))
 
 });
-
-gulp.task('default', function(){
-	gulp.run('minificarjs')
-});
