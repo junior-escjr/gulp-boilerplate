@@ -2,5 +2,5 @@
 var gulp = require('gulp');
 
 gulp.task('default', function(){
-	gulp.run('minificarjs', 'minificarcss')
+	gulp.run('compile-js', 'compile-css', 'watch')
 });
