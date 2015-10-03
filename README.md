@@ -8,6 +8,13 @@ Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 * gulp-uglify
 * require-dir
 
+## Referências
+
+* [gridResponsivo](https://github.com/juniorbdb/gridResponsivo)
+* [box-sizing Polyfill](http://github.com/Schepp/box-sizing-polyfill)
+* [Respond.js v1.4.2](https://github.com/scottjehl/Respond)
+* [selectivizr v1.0.2](https://github.com/keithclark/selectivizr)
+
 ## Utilização
 Um pré requisito é que você tenha instalado o [Gulp](http://gulpjs.com/) globalmente em seu computador.
 
@@ -28,3 +35,7 @@ Um pré requisito é que você tenha instalado o [Gulp](http://gulpjs.com/) glob
 
 ## Questões
 Caso tenha alguma dificuldade em utilizar o Gulp Boilerplate ou deseje saber algum aspecto da configuração atual, abra uma [issue](https://github.com/theandersonn/gulp-boilerplate/issues/new) e explique a sua dificuldade.
+
+## License
+
+[MIT](https://github.com/theandersonn/gulp-boilerplate/blob/master/LICENSE-MIT.md) © [Anderson Nascimento](https://github.com/theandersonn)
