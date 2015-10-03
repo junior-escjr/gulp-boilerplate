@@ -8,6 +8,31 @@ Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 * gulp-uglify
 * require-dir
 
+## Workflow: Gulp Boilerplate
+```
+Gulp Boilerplate/
+├── assets/
+│   ├── public/
+│   │     ├── css-min/
+│   │     ├── fonts/
+│   │     ├── images/
+│   │     └── js-min/
+│   │
+│   └── src/
+│         ├── css/
+│         ├── js/
+│         └── sass/
+│
+├── gulp/
+│     ├── taks/
+│     ├── gulpfile.js
+│     └── package.json
+│
+├── .gitignore
+├── LICENSE-MIT.MD
+└── README.md
+```
+
 ## Referências
 
 * [gridResponsivo](https://github.com/juniorbdb/gridResponsivo)
