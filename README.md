@@ -1,4 +1,4 @@
-## Gulp Boilerplate
+## Apresentação: Gulp Boilerplate
 Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 
 * gulp-concat
@@ -15,7 +15,7 @@ Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 * [Respond.js v1.4.2](https://github.com/scottjehl/Respond)
 * [selectivizr v1.0.2](https://github.com/keithclark/selectivizr)
 
-## Utilização
+## Como utilizar
 Um pré requisito é que você tenha instalado o [Gulp](http://gulpjs.com/) globalmente em seu computador.
 
 ```
@@ -33,7 +33,7 @@ Um pré requisito é que você tenha instalado o [Gulp](http://gulpjs.com/) glob
     gulp // para utilizar a task default
 ```
 
-## Questões
+## Questões e dúvidas
 Caso tenha alguma dificuldade em utilizar o Gulp Boilerplate ou deseje saber algum aspecto da configuração atual, abra uma [issue](https://github.com/theandersonn/gulp-boilerplate/issues/new) e explique a sua dificuldade.
 
 ## License
