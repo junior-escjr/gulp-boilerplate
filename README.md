@@ -25,7 +25,7 @@ Gulp Boilerplate/
 │       └── js/
 │
 ├── gulp/
-│   ├── taks/
+│   ├── tasks/
 │   ├── gulpfile.js
 │   └── package.json
 │
@@ -56,8 +56,8 @@ Um pré requisito é que você tenha instalado o [Gulp](http://gulpjs.com/) glob
 ```
 
 ```
-3. Sstart gulp
-    gulp // para utilizar a task default
+3. Start gulp
+    gulp // Aciona a task default
 ```
 
 ## Questões e dúvidas
