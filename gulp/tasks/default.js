@@ -5,5 +5,5 @@
 var gulp = require('gulp');
 
 gulp.task('default', function(){
-	gulp.run('compile-js', 'compile-css', 'concat-css', 'sass', 'watch')
+	gulp.run('compile-js', 'compile-css', 'compile-img', 'concat-css', 'sass', 'watch')
 });
