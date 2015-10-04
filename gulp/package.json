@@ -17,9 +17,5 @@
     "test": "gulp test"
   },
   "author": "Anderson Nascimento",
-<<<<<<< HEAD
-  "license": "MIT",
-=======
->>>>>>> parent of fbb9f52... Insere gulp-imagemin: ^2.3.0
   "license": "MIT"
 }
