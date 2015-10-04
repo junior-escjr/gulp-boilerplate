@@ -10,7 +10,7 @@ gulp.task( 'compile-css', function() {
   gulp.src('../assets/src/css/*.css')
     .pipe(cssmin())
     .pipe(rename({suffix: '.min'}))
-    .pipe(gulp.dest('../assets/public/css-min'));
+    .pipe(gulp.dest('../assets/public/css/'));
 });
 
 gulp.task( 'watch', function() {

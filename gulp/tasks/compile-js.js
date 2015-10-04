@@ -11,6 +11,6 @@ gulp.task('compile-js', function() {
 	return gulp.src('../assets/src/js/*.js')
 		.pipe(uglify())
 		.pipe(rename({suffix: '.min'}))
-		.pipe(gulp.dest('../assets/public/js-min'))
+		.pipe(gulp.dest('../assets/public/js/'))
 
 });
