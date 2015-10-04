@@ -12,7 +12,3 @@ gulp.task( 'compile-css', function() {
     .pipe(rename({suffix: '.min'}))
     .pipe(gulp.dest('../assets/public/css/'));
 });
-
-gulp.task( 'watch', function() {
-  gulp.watch( '../assets/src/css/*.css', [ 'compile-css' ] );
-});
