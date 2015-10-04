@@ -13,28 +13,30 @@ Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 Gulp Boilerplate/
 ├── assets/
 │   ├── public/
-│   │     ├── css-min/
-│   │     ├── fonts/
-│   │     ├── images/
-│   │     └── js-min/
+│   │   ├── css/
+│   │   ├── fonts/
+│   │   ├── images/
+│   │   └── js/
 │   │
 │   └── src/
-│         ├── css/
-│         ├── js/
-│         └── sass/
+│       ├── css/
+│       ├── fonts/
+│       ├── images/
+│       └── js/
 │
 ├── gulp/
-│     ├── taks/
-│     ├── gulpfile.js
-│     └── package.json
+│   ├── taks/
+│   ├── gulpfile.js
+│   └── package.json
 │
 ├── .gitignore
-├── LICENSE-MIT.MD
+├── LICENSE-MIT.md
 └── README.md
 ```
 
 ## Referências
-
+* [Gulp](http://gulpjs.com)
+* [Sass](http://sass-lang.com)
 * [gridResponsivo](https://github.com/juniorbdb/gridResponsivo)
 * [box-sizing Polyfill](http://github.com/Schepp/box-sizing-polyfill)
 * [Respond.js v1.4.2](https://github.com/scottjehl/Respond)
