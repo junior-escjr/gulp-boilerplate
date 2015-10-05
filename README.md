@@ -22,7 +22,8 @@ Gulp Boilerplate/
 │       ├── css/
 │       ├── fonts/
 │       ├── images/
-│       └── js/
+│       ├── js/
+│       └── sass/
 │
 ├── gulp/
 │   ├── tasks/
