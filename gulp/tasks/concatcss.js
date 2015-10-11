@@ -5,7 +5,7 @@
 var gulp = require('gulp');
 var concat = require('gulp-concat');
 
-gulp.task('concat-css', function() {
+gulp.task('concatcss', function() {
   return gulp.src([
       '../assets/public/css/reset.min.css',
       '../assets/public/css/grid.min.css',
