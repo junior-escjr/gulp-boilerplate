@@ -7,7 +7,7 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 
 // tasks
-gulp.task('compile-js', function() {
+gulp.task('jsmin', function() {
 	return gulp.src('../assets/src/js/*.js')
 		.pipe(uglify())
 		.pipe(rename({suffix: '.min'}))
