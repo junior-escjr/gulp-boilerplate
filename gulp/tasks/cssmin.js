@@ -6,7 +6,7 @@ var gulp = require('gulp');
 var cssmin = require('gulp-cssmin');
 var rename = require('gulp-rename');
 
-gulp.task( 'compile-css', function() {
+gulp.task( 'cssmin', function() {
   gulp.src('../assets/src/css/*.css')
     .pipe(cssmin())
     .pipe(rename({suffix: '.min'}))
