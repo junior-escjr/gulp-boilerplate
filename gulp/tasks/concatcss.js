@@ -9,8 +9,7 @@ gulp.task('concatcss', function() {
   return gulp.src([
       '../assets/public/css/reset.min.css',
       '../assets/public/css/grid.min.css',
-      '../assets/public/css/base.min.css',
-      '../assets/public/css/media-queries.min.css'
+      '../assets/public/css/all.min.css',
   ])
     .pipe(concat('all.min.css'))
     .pipe(gulp.dest('../assets/public/css/'));
