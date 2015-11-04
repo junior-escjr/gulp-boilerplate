@@ -1,4 +1,4 @@
-## Apresentação: Gulp Boilerplate
+## Gulp Boilerplate
 Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 
 * gulp-concat
@@ -11,21 +11,17 @@ Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
 ## Workflow: Gulp Boilerplate
 ```
 Gulp Boilerplate/
+│
 ├── assets/
-│   ├── public/
-│   │   ├── css/
-│   │   ├── fonts/
-│   │   ├── images/
-│   │   └── js/
 │   │
-│   └── src/
-│       ├── css/
-│       ├── fonts/
-│       ├── images/
-│       ├── js/
-│       └── sass/
+│   ├── css/
+│   ├── fonts/
+│   ├── images/
+│   ├── js/
+│   └── sass/
 │
 ├── gulp/
+│	│
 │   ├── tasks/
 │   ├── gulpfile.js
 │   └── package.json
