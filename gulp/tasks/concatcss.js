@@ -7,12 +7,12 @@ var concat = require('gulp-concat');
 
 gulp.task('concatcss', function() {
   return gulp.src([
-      '../assets/public/css/reset.min.css',
-      '../assets/public/css/grid.min.css',
-      '../assets/public/css/owl.carousel.min.css',
-      '../assets/public/css/owl.theme.default.min.css',
-      '../assets/public/css/all.min.css',
+      '../assets/css/min/reset.min.css',
+      '../assets/css/min/grid.min.css',
+      '../assets/css/min/owl.carousel.min.css',
+      '../assets/css/min/owl.theme.default.min.css',
+      '../assets/css/min/base.min.css'
   ])
     .pipe(concat('all.min.css'))
-    .pipe(gulp.dest('../assets/public/css/'));
+    .pipe(gulp.dest('../assets/css/min/'));
 });
