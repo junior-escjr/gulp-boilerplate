@@ -11,7 +11,7 @@ gulp.task('concatcss', function() {
       '../assets/css/grid.css',
       '../assets/css/owl.carousel.css',
       '../assets/css/owl.theme.default.css',
-      '../assets/css/styles.css'
+      '../assets/css/style.css'
   ])
     .pipe(concat('all.css'))
     .pipe(gulp.dest('../assets/css/'));

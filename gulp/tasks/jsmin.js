@@ -8,7 +8,7 @@ var rename = require('gulp-rename');
 
 // tasks
 gulp.task('jsmin', function() {
-	return gulp.src('../assets/js/lib/*.js')
+	return gulp.src('../assets/js/all.js')
 		.pipe(uglify())
 		.pipe(rename({suffix: '.min'}))
 		.pipe(gulp.dest('../assets/js/'))
