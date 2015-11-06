@@ -1,6 +1,5 @@
 var funcoes = {
 	init: function(){
-		this.imprimirPost();
 		this.sliderHome();
 		this.responsiveYouTube();
 		this.removeAtributosImg();
