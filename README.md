@@ -35,6 +35,8 @@ root(theme)/
 - [box-sizing Polyfill](http://github.com/Schepp/box-sizing-polyfill)
 - [Respond.js v1.4.2](https://github.com/scottjehl/Respond)
 - [selectivizr v1.0.2](https://github.com/keithclark/selectivizr)
+- [Posts](https://github.com/juniorbdb/snippetsWp/blob/master/Posts/)
+
 
 ## Como utilizar
 Instale o [Gulp](http://gulpjs.com/) de forma global em seu computador.
