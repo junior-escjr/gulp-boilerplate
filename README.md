@@ -20,8 +20,6 @@ root(theme)/
 ├── static/
 │   │
 │   ├── css/
-│   ├── fonts/
-│   ├── images/
 │   └── js/
 │   
 ├── gulp/
