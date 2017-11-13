@@ -1,12 +1,13 @@
 ## Gulp Boilerplate
 Plugins utilizados na criação do automatizador.
 
-- gulp-concat(https://www.npmjs.com/package/gulp-concat)
-- gulp-cssmin(https://www.npmjs.com/package/gulp-cssmin)
-- gulp-rename(https://www.npmjs.com/package/gulp-rename)
-- gulp-sass(https://www.npmjs.com/package/gulp-sass)
-- gulp-uglify(https://www.npmjs.com/package/gulp-uglify)
-- require-dir(https://www.npmjs.com/package/require-dir)
+- [gulp-concat](https://www.npmjs.com/package/gulp-concat)
+- [gulp-cssmin](https://www.npmjs.com/package/gulp-cssmin)
+- [gulp-rename](https://www.npmjs.com/package/gulp-rename)
+- [gulp-sass](https://www.npmjs.com/package/gulp-sass)
+- [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)
+- [require-dir](https://www.npmjs.com/package/require-dir)
+
 
 ## Workflow: Gulp Boilerplate
 ```
