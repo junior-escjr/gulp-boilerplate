@@ -30,11 +30,11 @@ root(theme)/
 ```
 
 ## Referências
-* [Gulp](http://gulpjs.com)
-* [Sass](http://sass-lang.com)
-* [box-sizing Polyfill](http://github.com/Schepp/box-sizing-polyfill)
-* [Respond.js v1.4.2](https://github.com/scottjehl/Respond)
-* [selectivizr v1.0.2](https://github.com/keithclark/selectivizr)
+- [Gulp](http://gulpjs.com)
+- [Sass](http://sass-lang.com)
+- [box-sizing Polyfill](http://github.com/Schepp/box-sizing-polyfill)
+- [Respond.js v1.4.2](https://github.com/scottjehl/Respond)
+- [selectivizr v1.0.2](https://github.com/keithclark/selectivizr)
 
 ## Como utilizar
 Instale o [Gulp](http://gulpjs.com/) de forma global em seu computador.
@@ -54,5 +54,5 @@ Instale o [Gulp](http://gulpjs.com/) de forma global em seu computador.
     gulp // Aciona a task default
 ```
 
-## Questões e dúvidas
+## Dúvidas
 Caso tenha dúvidas crie uma 'issue' e responderei.
