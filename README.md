@@ -1,65 +1,60 @@
 ## Gulp Boilerplate
-Boilerplate para automatizar tarefas comuns no desenvolvimento Front-End.
+Plugins utilizados na criação do automatizador.
 
-* gulp-concat
-* gulp-cssmin
-* gulp-rename
-* gulp-sass
-* gulp-uglify
-* require-dir
+* gulp-concat(https://www.npmjs.com/package/gulp-concat)
+* gulp-cssmin(https://www.npmjs.com/package/gulp-cssmin)
+* gulp-rename(https://www.npmjs.com/package/gulp-rename)
+* gulp-sass(https://www.npmjs.com/package/gulp-sass)
+* gulp-uglify(https://www.npmjs.com/package/gulp-uglify)
+* require-dir(https://www.npmjs.com/package/require-dir)
 
 ## Workflow: Gulp Boilerplate
 ```
-Gulp Boilerplate/
+root(theme)/
 │
-├── assets/
+├── src/
+│   │
+│   ├── js/
+│   └── sass/
+│
+├── static/
 │   │
 │   ├── css/
 │   ├── fonts/
 │   ├── images/
-│   ├── js/
-│   └── sass/
-│
+│   └── js/
+│   
 ├── gulp/
 │	│
 │   ├── tasks/
 │   ├── gulpfile.js
 │   └── package.json
-│
-├── .gitignore
-├── LICENSE-MIT.md
-└── README.md
 ```
 
 ## Referências
 * [Gulp](http://gulpjs.com)
 * [Sass](http://sass-lang.com)
-* [gridResponsivo](https://github.com/juniorbdb/gridResponsivo)
 * [box-sizing Polyfill](http://github.com/Schepp/box-sizing-polyfill)
 * [Respond.js v1.4.2](https://github.com/scottjehl/Respond)
 * [selectivizr v1.0.2](https://github.com/keithclark/selectivizr)
 
 ## Como utilizar
-Um pré requisito é que você tenha instalado o [Gulp](http://gulpjs.com/) globalmente em seu computador.
+Instale o [Gulp](http://gulpjs.com/) de forma global em seu computador.
 
 ```
-1. Clone o repositório
-    git clone git@github.com:theandersonn/gulp-boilerplate.git
+1. Comando para clonar o repositório
+    git clone git@github.com:junior-escjr/gulp-boilerplate.git
 ```
 
 ```
-2. Instale as depências
+2. Abra o console dentro da pasta do gulp e digite o comando abaixo
     npm install
 ```
 
 ```
-3. Start gulp
+3. Depois de instalado digite o comando abaixo nesse mesmo console
     gulp // Aciona a task default
 ```
 
 ## Questões e dúvidas
-Caso tenha alguma dificuldade em utilizar o Gulp Boilerplate ou deseje saber algum aspecto da configuração atual, abra uma [issue](https://github.com/theandersonn/gulp-boilerplate/issues/new) e explique a sua dificuldade.
-
-## License
-
-[MIT](https://github.com/theandersonn/gulp-boilerplate/blob/master/LICENSE-MIT.md) © [Anderson Nascimento](https://github.com/theandersonn)
+Caso tenha dúvidas crie uma 'issue' e responderei.

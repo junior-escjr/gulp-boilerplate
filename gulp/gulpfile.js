@@ -1,3 +1,4 @@
-var requireDir = require('require-dir');
+// AQUI CARREGO TODOS OS ARQUIVOS QUE ESTÃO NA PASTA tasks/
 
-requireDir('./tasks', { recurse: true });
+var requireDir = require('require-dir');
+requireDir('./tasks', {recurse: true});
